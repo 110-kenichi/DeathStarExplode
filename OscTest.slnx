@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OscTest.Browser/OscTest.Browser.csproj" />
+  <Project Path="OscTest.Desktop/OscTest.Desktop.csproj" />
+  <Project Path="OscTest/OscTest.csproj" />
+</Solution>
